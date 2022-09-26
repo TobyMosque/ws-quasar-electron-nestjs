@@ -1,0 +1,7 @@
+[submodule "backend"]
+path = backend
+url = https://github.com/TobyMosque/ws-quasar-electron-nestjs-backend.git
+
+[submodule "frontend"]
+path = frontend
+url = https://github.com/TobyMosque/ws-quasar-electron-nestjs-frontend.git
